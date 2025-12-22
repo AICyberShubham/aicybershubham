@@ -15,12 +15,10 @@
 Name: Shubham Kumar Pandey
 Degree: BS in AI & Cybersecurity
 Institute: Indian Institute of Technology Patna
-Mode: Online | Self-Directed
 Primary Domain:
   - AI Security Engineering
   - LLM Security & Guardrails
   - Cyber Defense Systems
-
 
 🧪 Active Work
 [✔] Python & Systems Fundamentals
@@ -37,8 +35,3 @@ Secure the system.
 Repeat.
 
 
-Projects over certificates
-Depth over noise
-Long-term thinking over short-term hype
-
-<p align="center"> <code>SYSTEM UNDER CONTINUOUS DEVELOPMENT</code><br> <code>AI IS THE NEXT ATTACK SURFACE</code> </p>
