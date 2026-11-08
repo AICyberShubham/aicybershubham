@@ -1,72 +1,71 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,100:00ff88&text=Shubham%20Kumar%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Cybersecurity%20Student%20@%20IIT%20Patna&descAlignY=58&descColor=00ff88"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,100:00ff88&text=Shubham%20Kumar%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20in%20AI%20%26%20Cybersecurity,%20IIT%20Patna%20(hybrid)&descAlignY=58&descColor=00ff88" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=AI+Security+Research;LLM+Security+%7C+Red+Teaming;Agentic+AI+%7C+Cloud+Security;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking"/>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=AICyberShubham&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-# Hey, I'm Shubham 👋
-
-🎓 **BS in Artificial Intelligence & Cybersecurity @ IIT Patna**
-
-I'm interested in:
-
-- 🔐 AI Security
-- 🤖 Multi-Agent Systems
-- 🛡️ Red Teaming
-- ☁️ Cloud Security
-- 🧠 LLM Security
-
-Currently exploring how AI systems can be attacked, secured and aligned.
-
----
-
-# Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,docker,aws,vscode&theme=dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=AI+Security+Research;LLM+Security+%7C+Red+Teaming;Agentic+AI+%7C+Cloud+Security;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=AICyberShubham&color=00ff88&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-# Current Focus
+## Hey, I'm Shubham 👋
 
-<table>
+🎓 **BS in AI & Cybersecurity, IIT Patna (hybrid)**
+
+I'm interested in:
+
+- 🔐 **AI Security**
+- 🤖 **Multi-Agent Systems**
+- 🛡️ **Red Teaming**
+- ☁️ **Cloud Security**
+- 🧠 **LLM Security**
+
+Currently exploring how AI systems can be attacked, secured, and aligned.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,docker,aws,vscode&theme=dark" alt="Tech Stack" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql,html,css,js&theme=dark" alt="AI & Web Stack" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔐 Security
 
-- Prompt Injection
+- Prompt Injection & Jailbreaking
 - LLM Security
 - Red Teaming
-- Cloud IAM
-- OWASP Top 10
+- Cloud IAM Security
+- OWASP Top 10 (Web & LLM)
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🤖 AI & Engineering
 
-### 🤖 AI
-
-- LangChain
-- LangGraph
+- LangChain & LangGraph
 - Multi-Agent Systems
-- Agentic AI
+- Agentic AI Workflows
 - RAG Applications
+- Security Automation
 
 </td>
 </tr>
@@ -74,110 +73,111 @@ Currently exploring how AI systems can be attacked, secured and aligned.
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-## 🔴 AI Security Lab
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
+### 🔴 AI Security Lab
 Researching Prompt Injection & Jailbreak Attacks against LLMs.
 
-**Stack**
+**Stack:** `Python` `LangChain` `OpenAI`
 
-`Python` `LangChain` `OpenAI`
+</td>
+<td width="50%" valign="top">
 
----
-
-## 🤖 Multi-Agent Systems
-
+### 🤖 Multi-Agent Systems
 Building Autonomous AI Agents using LangGraph.
 
-**Stack**
+**Stack:** `Python` `LangGraph`
 
-`Python` `LangGraph`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### ☁️ Cloud IAM Attack Paths
+Studying Identity Security and Privilege Escalation in cloud environments.
 
-## ☁ Cloud IAM Attack Paths
+**Stack:** `AWS` `IAM`
 
-Studying Identity Security and Privilege Escalation.
+</td>
+<td width="50%" valign="top">
 
-**Stack**
+### 🐍 Security Automation Toolkit
+Python-based Recon and Security Automation Scripts.
 
-`AWS` `IAM`
+**Stack:** `Python` `Linux` `Bash`
 
----
-
-## 🐍 Security Automation Toolkit
-
-Python-based Recon and Automation Scripts.
-
-**Stack**
-
-`Python` `Linux`
-
----
-
-# Certifications
-
-- Google Cybersecurity Professional Certificate
-- IBM Generative AI
-- IIT Guwahati — Programming with Generative AI
-- Blue Team Fundamentals
-- Purple Team Fundamentals
+</td>
+</tr>
+</table>
 
 ---
 
-# GitHub Analytics
+## 📜 Certifications & Credentials
+
+- **ISC2 Candidate** — International Information System Security Certification Consortium
+- **Microsoft Certified: SC-900** — Security, Compliance, and Identity Fundamentals
+- **Google Cybersecurity Professional Certificate**
+- **IBM Generative AI**
+- **IIT Guwahati** — Programming with Generative AI
+- **Blue Team & Purple Team Fundamentals**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AICyberShubham&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AICyberShubham&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=AICyberShubham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AICyberShubham&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AICyberShubham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-# Languages
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AICyberShubham&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Graph
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AICyberShubham&theme=github-compact)](https://github.com/AICyberShubham)
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=AICyberShubham&theme=matrix&no-frame=true&column=4)
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:shubhamkpandey009@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
 
 <a href="https://github.com/AICyberShubham">
-<img src="https://img.shields.io/badge/GitHub-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AICyberShubham&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AICyberShubham&theme=matrix&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shubham-kumar-pandey-iitp/">
+  <img src="https://img.shields.io/badge/LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:shubhamkpandey009@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00ff88?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://github.com/AICyberShubham">
+  <img src="https://img.shields.io/badge/GitHub-00ff88?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </a>
 
 </div>
@@ -188,6 +188,6 @@ Python-based Recon and Automation Scripts.
 
 ### Learning • Building • Breaking
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff88,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff88,100:0d1117" alt="Footer Banner" />
 
 </div>
