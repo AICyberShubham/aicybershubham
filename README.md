@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0e1a,55:111a38,100:ffb454&text=Shubham%20Kumar%20Pandey&fontSize=46&fontColor=e8ecf7&fontAlignY=36&desc=BS%20in%20AI%20%26%20Cybersecurity%20at%20IIT%20Patna&descSize=18&descColor=b8c0d9&descAlignY=56&animation=fadeIn" alt="Shubham Kumar Pandey, BS in AI and Cybersecurity at IIT Patna" />
+<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0e1a,55:111a38,80:ffb454&text=Shubham%20Kumar%20Pandey&fontSize=46&fontColor=e8ecf7&fontAlignY=36&desc=BS%20in%20AI%20%26%20Cybersecurity%20at%20IIT%20Patna&descSize=18&descColor=b8c0d9&descAlignY=56&animation=fadeIn" alt="Shubham Kumar Pandey, BS in AI and Cybersecurity at IIT Patna" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFB454&center=true&vCenter=true&width=620&height=36&lines=building+LLM+agents+with+tool-calling;exploring+AI+%26+agent+security;making+WebXR+and+IoT+prototypes;learning+ML%2C+DSA+and+Java">
