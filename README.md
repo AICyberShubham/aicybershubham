@@ -1,51 +1,50 @@
-<!-- ========================================================================= -->
-<!--  SHUBHAM KUMAR PANDEY — EXECUTIVE CYBER-DARK UI/UX GITHUB PROFILE README  -->
-<!-- ========================================================================= -->
-
-<!-- 00. HERO BANNER & NAVIGATION -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090d16,50:0c2d27,100:00ff88&text=Shubham%20Kumar%20Pandey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BS%20in%20AI%20%26%20Cybersecurity%20%7C%20IIT%20Patna%20(Hybrid)&descAlignY=58&descColor=00ff88" alt="Hero Banner" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=900&color=00FF88¢er=true&vCenter=true&width=780&lines=Autonomous+LLM+Agents+%7C+Tool-Calling+%7C+RAG+%7C+MCP;AI+%26+Agentic+Security+%E2%80%A2+Prompt+Injection+Defense;WebXR+%7C+Embedded+IoT+%7C+Python+%7C+FastAPI;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=900&color=0A7D4F¢er=true&vCenter=true&width=780&lines=Autonomous+LLM+Agents+%7C+Tool-Calling+%7C+RAG+%7C+MCP;AI+%26+Agentic+Security+%E2%80%A2+Prompt+Injection+Defense;WebXR+%7C+Embedded+IoT+%7C+Python+%7C+FastAPI;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=900&color=00FF88¢er=true&vCenter=true&width=780&lines=Autonomous+LLM+Agents+%7C+Tool-Calling+%7C+RAG+%7C+MCP;AI+%26+Agentic+Security+%E2%80%A2+Prompt+Injection+Defense;WebXR+%7C+Embedded+IoT+%7C+Python+%7C+FastAPI;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking" alt="Typing SVG" />
-  </picture>
+<img src="assets/hero.svg" width="100%" alt="Shubham Kumar Pandey, BS in AI and Cybersecurity at IIT Patna" />
 
-  <br/>
+<a href="https://shubhampandey.dev"><img src="assets/btn-portfolio.svg" width="32%" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shubham-kumar-pandey-iitp/"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn" /></a>
+<a href="mailto:shubhamkpandey009@gmail.com"><img src="assets/btn-email.svg" width="32%" alt="Email" /></a>
 
-  <a href="https://shubhampandey.dev">
-    <img src="https://img.shields.io/badge/Portfolio-shubhampandey.dev-00ff88?style=for-the-badge&logo=googlechrome&logoColor=090d16" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-pandey-iitp/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shubhamkpandey009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shubhamkpandey009%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AICyberShubham&label=Profile%20Views&color=00ff88&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </div>
 
-<br/>
+<br>
 
-<!-- 01. SYSTEM IDENTITY & ACADEMIC CREDENTIALS -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,50:00ff88,100:0d1117" alt="Divider" />
+<img src="assets/h-about.svg" width="100%" alt="About" />
+<img src="assets/about.svg" width="100%" alt="Shubham studies BS in AI and Cybersecurity at IIT Patna and B.Tech IT at REC Mirzapur. Focus: LLM agents, tool-calling, RAG, MCP and AI security." />
 
-### `01 // SYSTEM_IDENTITY` — Profile & Academic Credentials
+<br>
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack" />
+<img src="assets/stack.svg" width="100%" alt="Python, C, JavaScript, HTML, CSS, FastAPI, Git, GitHub, Linux, LangChain, LangGraph, RAG, MCP, Claude API, A-Frame, WebXR, ESP32, Blynk" />
 
-```yaml
-┌──(shubham㉿iitp-sec)-[~/profile.yml]
-└─$ cat identity.yml
-name: "Shubham Kumar Pandey"
-role: "First-Year AI & Cybersecurity Undergraduate"
-domain_focus:
-  - "LLM Agents & Deterministic Tool-Calling"
-  - "RAG Systems & Model Context Protocol (MCP)"
-  - "Agentic Security, Red Teaming & Prompt Injection"
-active_build: "Rekonix — Autonomous AI Reconnaissance Agent"
-current_stack: ["Python", "Machine Learning", "DSA", "Java"]
-availability: "On-Campus Winter Internship / Research @ IITs or NITs"
+<br>
+
+<img src="assets/h-projects.svg" width="100%" alt="Projects" />
+
+<!-- To link a card to its repo: wrap the img in <a href="REPO_URL">...</a> -->
+<div align="center">
+<img src="assets/p1.svg" width="49%" alt="Rekonix, an AI agent that uses recon tools" /> <img src="assets/p2.svg" width="49%" alt="3D ULPIN and Vertical Property Mapping, SIH 2026" />
+<br>
+<img src="assets/p3.svg" width="49%" alt="Ancient Nalanda Mahavihara virtual reconstruction in WebXR" /> <img src="assets/p4.svg" width="49%" alt="Auto Solar Tracker with IoT monitoring" />
+<br>
+<img src="assets/p5.svg" width="49%" alt="CSE Department Website, IIT Patna Capstone-I" /> <a href="https://github.com/AICyberShubham?tab=repositories"><img src="assets/p6.svg" width="49%" alt="See every repository" /></a>
+</div>
+
+<br>
+
+<img src="assets/h-certs.svg" width="100%" alt="Certificates" />
+<img src="assets/certs.svg" width="100%" alt="Programming with Generative AI (IIT Guwahati), Agentic AI Bootcamp (Udemy), Master Python Programming from Scratch, AR/VR Workshop (YISL, IIT Patna)" />
+
+<br>
+
+<img src="assets/h-stats.svg" width="100%" alt="GitHub stats" />
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AICyberShubham&show_icons=true&bg_color=0a0e1a&border_color=252d47&title_color=ffb454&icon_color=2dd4bf&text_color=e8ecf7&border_radius=16&hide_border=false" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AICyberShubham&layout=compact&langs_count=6&bg_color=0a0e1a&border_color=252d47&title_color=ffb454&icon_color=2dd4bf&text_color=e8ecf7&border_radius=16&hide_border=false" alt="Top languages" />
+</div>
+
+<br>
+
+<img src="assets/footer.svg" width="100%" alt="Learning, building, breaking" />
